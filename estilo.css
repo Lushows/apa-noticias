@@ -1,0 +1,9 @@
+body{margin:0;background:#0b0b0d;color:#e9e9ee;font:17px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:720px;margin:0 auto;padding:40px 16px 64px}
+.marca{display:flex;gap:8px;margin-bottom:8px}
+.marca span{display:inline-grid;place-items:center;width:44px;height:44px;border:3px solid;border-radius:10px;font-weight:800;font-size:24px;color:#fff}
+.a1{border-color:#2fd6f0}.p{border-color:#f0383a}.a2{border-color:#f5c842}
+.lema{color:#a9a9b5;margin:0 0 32px}
+h1{font-size:28px;line-height:1.25;margin:0 0 4px}h2{font-size:19px;margin:32px 0 8px}
+.fecha{color:#8a8a96;font-size:14px;margin:0 0 24px}a{color:#2fd6f0}li{margin:4px 0}
+footer{margin-top:48px;color:#8a8a96;font-size:14px;border-top:1px solid #26262c;padding-top:16px}
